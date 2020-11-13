@@ -2,7 +2,7 @@
 # Dockerfile to build container for Synapse Python client
 #############################################################
 
-# Base Image
+# Base Ubuntu Image
 FROM ubuntu:16.04
 
 # File Author / Maintainer
