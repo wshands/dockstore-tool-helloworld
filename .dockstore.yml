@@ -1,5 +1,12 @@
 version: 1.2
 tools:
-   - subclass: cwl
-     primaryDescriptorPath: /Dockstore.cwl
-     publish: true
+  - subclass: cwl
+    primaryDescriptorPath: /Dockstore.cwl
+    publish: true
+    authors:
+     - name: Just Name
+     - orcid: 0000-0000-0000-0000
+     - name: Kathy
+       email: test@gmail.com
+       role: Software Developer
+       affiliation: Ontario Institute for Cancer Research
