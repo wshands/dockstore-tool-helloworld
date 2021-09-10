@@ -17,7 +17,7 @@ dct:creator:
 
 requirements:
 - class: DockerRequirement
-  dockerPull: quay.io/ga4gh-dream/dockstore-tool-helloworld:1.0.2
+  dockerPull: public.ecr.aws/n3r3k9w6/kathy-t:1
 
 inputs:
   template_file:
