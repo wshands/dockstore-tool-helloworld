@@ -1,5 +1,7 @@
 #!/usr/bin/env cwl-runner
 
+# a comment
+
 class: CommandLineTool
 id: "hello-world"
 label: "Simple hello world tool"
